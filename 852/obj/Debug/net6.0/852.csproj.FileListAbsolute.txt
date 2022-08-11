@@ -1,0 +1,15 @@
+G:\Binary-Search\852\bin\Debug\net6.0\852.exe
+G:\Binary-Search\852\bin\Debug\net6.0\852.deps.json
+G:\Binary-Search\852\bin\Debug\net6.0\852.runtimeconfig.json
+G:\Binary-Search\852\bin\Debug\net6.0\852.dll
+G:\Binary-Search\852\bin\Debug\net6.0\852.pdb
+G:\Binary-Search\852\obj\Debug\net6.0\852.csproj.AssemblyReference.cache
+G:\Binary-Search\852\obj\Debug\net6.0\852.GeneratedMSBuildEditorConfig.editorconfig
+G:\Binary-Search\852\obj\Debug\net6.0\852.AssemblyInfoInputs.cache
+G:\Binary-Search\852\obj\Debug\net6.0\852.AssemblyInfo.cs
+G:\Binary-Search\852\obj\Debug\net6.0\852.csproj.CoreCompileInputs.cache
+G:\Binary-Search\852\obj\Debug\net6.0\852.dll
+G:\Binary-Search\852\obj\Debug\net6.0\refint\852.dll
+G:\Binary-Search\852\obj\Debug\net6.0\852.pdb
+G:\Binary-Search\852\obj\Debug\net6.0\852.genruntimeconfig.cache
+G:\Binary-Search\852\obj\Debug\net6.0\ref\852.dll
