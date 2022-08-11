@@ -1,0 +1,15 @@
+G:\Binary-Search\704\bin\Debug\net6.0\704.exe
+G:\Binary-Search\704\bin\Debug\net6.0\704.deps.json
+G:\Binary-Search\704\bin\Debug\net6.0\704.runtimeconfig.json
+G:\Binary-Search\704\bin\Debug\net6.0\704.dll
+G:\Binary-Search\704\bin\Debug\net6.0\704.pdb
+G:\Binary-Search\704\obj\Debug\net6.0\704.csproj.AssemblyReference.cache
+G:\Binary-Search\704\obj\Debug\net6.0\704.GeneratedMSBuildEditorConfig.editorconfig
+G:\Binary-Search\704\obj\Debug\net6.0\704.AssemblyInfoInputs.cache
+G:\Binary-Search\704\obj\Debug\net6.0\704.AssemblyInfo.cs
+G:\Binary-Search\704\obj\Debug\net6.0\704.csproj.CoreCompileInputs.cache
+G:\Binary-Search\704\obj\Debug\net6.0\704.dll
+G:\Binary-Search\704\obj\Debug\net6.0\refint\704.dll
+G:\Binary-Search\704\obj\Debug\net6.0\704.pdb
+G:\Binary-Search\704\obj\Debug\net6.0\704.genruntimeconfig.cache
+G:\Binary-Search\704\obj\Debug\net6.0\ref\704.dll
