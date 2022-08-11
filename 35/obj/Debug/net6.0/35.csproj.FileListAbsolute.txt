@@ -1,0 +1,15 @@
+G:\Binary-Search\35\bin\Debug\net6.0\35.exe
+G:\Binary-Search\35\bin\Debug\net6.0\35.deps.json
+G:\Binary-Search\35\bin\Debug\net6.0\35.runtimeconfig.json
+G:\Binary-Search\35\bin\Debug\net6.0\35.dll
+G:\Binary-Search\35\bin\Debug\net6.0\35.pdb
+G:\Binary-Search\35\obj\Debug\net6.0\35.csproj.AssemblyReference.cache
+G:\Binary-Search\35\obj\Debug\net6.0\35.GeneratedMSBuildEditorConfig.editorconfig
+G:\Binary-Search\35\obj\Debug\net6.0\35.AssemblyInfoInputs.cache
+G:\Binary-Search\35\obj\Debug\net6.0\35.AssemblyInfo.cs
+G:\Binary-Search\35\obj\Debug\net6.0\35.csproj.CoreCompileInputs.cache
+G:\Binary-Search\35\obj\Debug\net6.0\35.dll
+G:\Binary-Search\35\obj\Debug\net6.0\refint\35.dll
+G:\Binary-Search\35\obj\Debug\net6.0\35.pdb
+G:\Binary-Search\35\obj\Debug\net6.0\35.genruntimeconfig.cache
+G:\Binary-Search\35\obj\Debug\net6.0\ref\35.dll
